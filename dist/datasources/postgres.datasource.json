@@ -1,0 +1,10 @@
+{
+    "name": "postgres",
+    "connector": "postgresql",
+    "url": "postgresql://6d906e6c5a13c2729a5feba1e2db515a:7d71aa6a04d05c1bf5d52c71a1501794@201.139.186.194:5432/mobby_platform",
+    "host": "201.139.186.194",
+    "port": 5432,
+    "user": "6d906e6c5a13c2729a5feba1e2db515a",
+    "password": "7d71aa6a04d05c1bf5d52c71a1501794",
+    "database": "mobby_platform"
+}
