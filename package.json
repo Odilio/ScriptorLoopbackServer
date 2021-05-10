@@ -60,7 +60,7 @@
     "bcryptjs": "^2.4.3",
     "isemail": "^3.2.0",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "loopback-connector-postgresql": "^3.7.0",
     "passport-http": "^0.3.0"
   },
